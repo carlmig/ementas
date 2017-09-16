@@ -1,0 +1,283 @@
+data = {
+  "1": {
+  "name": "Laranjinhas/Limões/Peras",
+  "semanas": [
+    {
+      "id": 1,
+      "name": "Semana 1",
+      "ementa": [
+        {
+          "name": "Seg",
+          "almoco": [
+            "Canja de galinha",
+            "Bifinhos de perú com massa e cogumelos",
+			"Fruta variada ou cozida, gelatina ou mousse"
+          ],
+          "lanche": [
+            "Leite c/ cereais",
+            "Pão c/ manteiga"
+          ]
+        },
+        {
+          "name": "Ter",
+          "almoco": [
+			"Sopa de Legumes",
+			"Filetes de pescada c/ batata e legumes",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Iogurte",
+			"Pão c/ queijo"
+			]
+        },
+        {
+          "name": "Qua",
+          "almoco": [
+			"Sopa de Legumes",
+			"Arroz de pato",
+			"Acompanhamento de salada de alface/tomate/cenoura",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Leite com chocolate",
+			"Pão c/ marmelada"
+			]
+        },
+		{
+          "name": "Qui",
+          "almoco": [
+			"Sopa de Legumes",
+			"Pescada/lulas estufadas com legumes e batata",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Iogurte de fruta",
+			"Bico de pato com fiambre de perú"
+			]
+        },
+		{
+          "name": "Fri",
+          "almoco": [
+			"Sopa de Legumes",
+			"Bolonhesa de vitela com massa",
+			"Acompanhamento de salada de alface/tomate/cenoura",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Leite c/ cevada",
+			"Pão c/ compota"
+			]
+        }
+      ]
+    },
+	{
+      "id": 2,
+      "name": "Semana 2",
+      "ementa": [
+        {
+          "name": "Seg",
+          "almoco": [
+            "Canja de galinha",
+            "Bifinhos de perú com massa e cogumelos",
+			"Fruta variada ou cozida, gelatina ou mousse"
+          ],
+          "lanche": [
+            "Leite c/ cereais",
+            "Pão c/ manteiga"
+          ]
+        },
+        {
+          "name": "Ter",
+          "almoco": [
+			"Sopa de Legumes",
+			"Filetes de pescada c/ batata e legumes",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Iogurte",
+			"Pão c/ queijo"
+			]
+        },
+        {
+          "name": "Qua",
+          "almoco": [
+			"Sopa de Legumes",
+			"Arroz de pato",
+			"Acompanhamento de salada de alface/tomate/cenoura",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Leite com chocolate",
+			"Pão c/ marmelada"
+			]
+        },
+		{
+          "name": "Qui",
+          "almoco": [
+			"Sopa de Legumes",
+			"Pescada/lulas estufadas com legumes e batata",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Iogurte de fruta",
+			"Bico de pato com fiambre de perú"
+			]
+        },
+		{
+          "name": "Fri",
+          "almoco": [
+			"Sopa de Legumes",
+			"Bolonhesa de vitela com massa",
+			"Acompanhamento de salada de alface/tomate/cenoura",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Leite c/ cevada",
+			"Pão c/ compota"
+			]
+        }
+      ]
+    },
+	{
+      "id": 3,
+      "name": "Semana 3",
+      "ementa": [
+        {
+          "name": "Seg",
+          "almoco": [
+            "Canja de galinha",
+            "Bifinhos de perú com massa e cogumelos",
+			"Fruta variada ou cozida, gelatina ou mousse"
+          ],
+          "lanche": [
+            "Leite c/ cereais",
+            "Pão c/ manteiga"
+          ]
+        },
+        {
+          "name": "Ter",
+          "almoco": [
+			"Sopa de Legumes",
+			"Filetes de pescada c/ batata e legumes",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Iogurte",
+			"Pão c/ queijo"
+			]
+        },
+        {
+          "name": "Qua",
+          "almoco": [
+			"Sopa de Legumes",
+			"Arroz de pato",
+			"Acompanhamento de salada de alface/tomate/cenoura",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Leite com chocolate",
+			"Pão c/ marmelada"
+			]
+        },
+		{
+          "name": "Qui",
+          "almoco": [
+			"Sopa de Legumes",
+			"Pescada/lulas estufadas com legumes e batata",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Iogurte de fruta",
+			"Bico de pato com fiambre de perú"
+			]
+        },
+		{
+          "name": "Fri",
+          "almoco": [
+			"Sopa de Legumes",
+			"Bolonhesa de vitela com massa",
+			"Acompanhamento de salada de alface/tomate/cenoura",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Leite c/ cevada",
+			"Pão c/ compota"
+			]
+        }
+      ]
+    },
+	{
+      "id": 4,
+      "name": "Semana 4",
+      "ementa": [
+        {
+          "name": "Seg",
+          "almoco": [
+            "Canja de galinha",
+            "Bifinhos de perú com massa e cogumelos",
+			"Fruta variada ou cozida, gelatina ou mousse"
+          ],
+          "lanche": [
+            "Leite c/ cereais",
+            "Pão c/ manteiga"
+          ]
+        },
+        {
+          "name": "Ter",
+          "almoco": [
+			"Sopa de Legumes",
+			"Filetes de pescada c/ batata e legumes",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Iogurte",
+			"Pão c/ queijo"
+			]
+        },
+        {
+          "name": "Qua",
+          "almoco": [
+			"Sopa de Legumes",
+			"Arroz de pato",
+			"Acompanhamento de salada de alface/tomate/cenoura",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Leite com chocolate",
+			"Pão c/ marmelada"
+			]
+        },
+		{
+          "name": "Qui",
+          "almoco": [
+			"Sopa de Legumes",
+			"Pescada/lulas estufadas com legumes e batata",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Iogurte de fruta",
+			"Bico de pato com fiambre de perú"
+			]
+        },
+		{
+          "name": "Fri",
+          "almoco": [
+			"Sopa de Legumes",
+			"Bolonhesa de vitela com massa",
+			"Acompanhamento de salada de alface/tomate/cenoura",
+			"Fruta variada ou cozida, gelatina ou mousse"
+			],
+          "lanche": [
+			"Leite c/ cevada",
+			"Pão c/ compota"
+			]
+        }
+      ]
+    }
+  ]
+},
+	"2": {
+		"name": "Cerejinhas",
+		"semanas": []
+	}
+}

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt">
+	<head>
+		<meta charset="utf-8"/>
+		<title>Ementas Risquinhas</title>
+		<link href="css/main.css" type="text/css" rel="stylesheet">
+	</head>
+	<body>
+		<h1>Ementas do Risquinhas</h1>
+		
+		<div id="main">
+			<ementa></ementa>
+		</div>
+
+		<script src="data.json"></script>
+		<script src="js/riot+compiler.min.js"></script>
+		<script src="js/moment.min.js"></script>
+		<script src="js/route.min.js"></script>
+
+		<script src="ementa.tag" type="riot/tag"></script>
+
+		<script>riot.mount('ementa', data)</script>
+
+		<script type="text/javascript">
+			var registerServiceWorker = function() {
+				if ('serviceWorker' in navigator) {
+					navigator.serviceWorker.register('sw.js').then(function(reg) {
+						console.log('service worker created', reg);
+					}, function(err) {
+						console.log('service worker not created', err);
+					});
+				}
+			}
+			
+			registerServiceWorker();
+		
+			var globalRoom = 1
+
+			route('/*', function(room) {
+				globalRoom = room
+				riot.update()
+			})
+			route.start(true)
+		</script>
+	</body>
+</html>
