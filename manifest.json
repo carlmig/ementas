@@ -1,0 +1,20 @@
+{
+  "name": "Ementas do Risquinhas",
+  "short_name": "Ementas",
+  "lang": "pt-PT",
+  "start_url": "https://carlmig.github.io/ementas/",
+  "display": "standalone",
+  "theme_color": "#6677ee",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
