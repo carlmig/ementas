@@ -1,4 +1,4 @@
-var staticCacheName = 'ementas-static-5';
+var staticCacheName = 'ementas-static-7';
 var dynamicCacheName = 'ementas-dynamic-1';
 var allCaches = [
   staticCacheName,
@@ -15,8 +15,7 @@ self.addEventListener('install', function(event) {
 		'ementa.tag',
 		'manifest.json',
         'css/main.css',
-		'images/',
-		'/'
+		'index.html'
       ]);
     })
   );
