@@ -1,4 +1,4 @@
-var staticCacheName = 'ementas-static-7';
+var staticCacheName = 'ementas-static-8';
 var dynamicCacheName = 'ementas-dynamic-1';
 var allCaches = [
   staticCacheName,
@@ -15,7 +15,18 @@ self.addEventListener('install', function(event) {
 		'ementa.tag',
 		'manifest.json',
         'css/main.css',
-		'index.html'
+		'index.html',
+		'images/apple-icon-120.png',
+		'images/apple-icon-167.png',
+		'images/apple-icon-60.png',
+		'images/icon-144.png',
+		'images/icon-48.png',
+		'images/icon-96.png',
+		'images/apple-icon-152.png',
+		'images/apple-icon-180.png',
+		'images/apple-icon-76.png',
+		'images/icon-192.png',
+		'images/icon-72.png'
       ]);
     })
   );
