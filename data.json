@@ -7,7 +7,7 @@ data = {
       "name": "Semana 1",
       "ementa": [
         {
-          "name": "Seg",
+          "name": "Mon",
           "almoco": [
             "Canja de galinha",
             "Bifinhos de perú com massa e cogumelos",
@@ -19,7 +19,7 @@ data = {
           ]
         },
         {
-          "name": "Ter",
+          "name": "Tue",
           "almoco": [
 			"Sopa de Legumes",
 			"Filetes de pescada c/ batata e legumes",
@@ -31,7 +31,7 @@ data = {
 			]
         },
         {
-          "name": "Qua",
+          "name": "Wed",
           "almoco": [
 			"Sopa de Legumes",
 			"Arroz de pato",
@@ -44,7 +44,7 @@ data = {
 			]
         },
 		{
-          "name": "Qui",
+          "name": "Thu",
           "almoco": [
 			"Sopa de Legumes",
 			"Pescada/lulas estufadas com legumes e batata",
@@ -75,7 +75,7 @@ data = {
       "name": "Semana 2",
       "ementa": [
         {
-          "name": "Seg",
+          "name": "Mon",
           "almoco": [
             "Canja de galinha",
             "Bifinhos de perú com massa e cogumelos",
@@ -87,7 +87,7 @@ data = {
           ]
         },
         {
-          "name": "Ter",
+          "name": "Tue",
           "almoco": [
 			"Sopa de Legumes",
 			"Filetes de pescada c/ batata e legumes",
@@ -99,7 +99,7 @@ data = {
 			]
         },
         {
-          "name": "Qua",
+          "name": "Wed",
           "almoco": [
 			"Sopa de Legumes",
 			"Arroz de pato",
@@ -112,7 +112,7 @@ data = {
 			]
         },
 		{
-          "name": "Qui",
+          "name": "Thu",
           "almoco": [
 			"Sopa de Legumes",
 			"Pescada/lulas estufadas com legumes e batata",
@@ -143,7 +143,7 @@ data = {
       "name": "Semana 3",
       "ementa": [
         {
-          "name": "Seg",
+          "name": "Mon",
           "almoco": [
             "Canja de galinha",
             "Bifinhos de perú com massa e cogumelos",
@@ -155,7 +155,7 @@ data = {
           ]
         },
         {
-          "name": "Ter",
+          "name": "Tue",
           "almoco": [
 			"Sopa de Legumes",
 			"Filetes de pescada c/ batata e legumes",
@@ -167,7 +167,7 @@ data = {
 			]
         },
         {
-          "name": "Qua",
+          "name": "Wed",
           "almoco": [
 			"Sopa de Legumes",
 			"Arroz de pato",
@@ -180,7 +180,7 @@ data = {
 			]
         },
 		{
-          "name": "Qui",
+          "name": "Thu",
           "almoco": [
 			"Sopa de Legumes",
 			"Pescada/lulas estufadas com legumes e batata",
@@ -211,7 +211,7 @@ data = {
       "name": "Semana 4",
       "ementa": [
         {
-          "name": "Seg",
+          "name": "Mon",
           "almoco": [
             "Canja de galinha",
             "Bifinhos de perú com massa e cogumelos",
@@ -223,7 +223,7 @@ data = {
           ]
         },
         {
-          "name": "Ter",
+          "name": "Tue",
           "almoco": [
 			"Sopa de Legumes",
 			"Filetes de pescada c/ batata e legumes",
@@ -235,7 +235,7 @@ data = {
 			]
         },
         {
-          "name": "Qua",
+          "name": "Wed",
           "almoco": [
 			"Sopa de Legumes",
 			"Arroz de pato",
@@ -248,7 +248,7 @@ data = {
 			]
         },
 		{
-          "name": "Qui",
+          "name": "Thu",
           "almoco": [
 			"Sopa de Legumes",
 			"Pescada/lulas estufadas com legumes e batata",
