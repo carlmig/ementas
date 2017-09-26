@@ -10,9 +10,12 @@
 			</tr>
 			<tr each="{day in week().ementa}" class="{highlight(day.name)}">
 				<td>{day.name}</td>
-				<td>
-					<ul><li each="{line in day.almoco}">{line}</li></ul></td>
-				<td><ul><li each="{line in day.lanche}">{line}</li></ul></td>
+				<td class="content-cell">
+					<ul><li each="{line in day.almoco}">{line}</li></ul>
+				</td>
+				<td class="content-cell">
+					<ul><li each="{line in day.lanche}">{line}</li></ul>
+				</td>
 			</tr>			
 		</table>
 	</div>
