@@ -1,6 +1,9 @@
 body {
   background-color: #bbccdd;
-  font-family: Arial, Helvetica, sans-serif; }
+  font-family: Arial, Helvetica, sans-serif;
+  width: 100%;
+  margin: 0;
+  padding: 0; }
 
 h1 {
   font-size: 3em;
@@ -12,19 +15,16 @@ h3 {
   text-align: center; }
 
 #main {
-  margin: 0 auto;
-  width: 800px; }
+  width: 100%; }
 
 .ementa {
   border: 1px solid #4f63eb;
-  border-radius: 10px;
-  overflow: hidden;
-  box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.2); }
+  overflow: hidden; }
   .ementa .header {
     background-color: #6677ee;
     color: white;
     text-align: center;
-    font-size: 1.5em;
+    font-size: 1.3em;
     padding: 1rem; }
 
 table {
@@ -35,8 +35,23 @@ table {
   table th, table tr, table td {
     border: 1px solid #aabbff;
     color: #445566; }
+  table .content-cell {
+    vertical-align: top; }
   table th {
     background-color: #aabbff; }
+  table ul {
+    list-style-position: inside;
+    padding-left: 0.5em; }
+    table ul li {
+      margin-top: 1.2em; }
 
 .highlight {
   background-color: #ccffbb; }
+
+@media screen and (min-width: 600px) {
+  #main {
+    margin: 0 auto;
+    width: 600px; }
+  .ementa {
+    border-radius: 10px;
+    box-shadow: 4px 4px 0 rgba(0, 0, 0, 0.2); } }
