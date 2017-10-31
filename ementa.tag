@@ -28,7 +28,7 @@
 
 			week(){
 				//calculate week
-				var firstWeek = 29
+				var firstWeek = 44
 				var currentWeek = moment().format("W")
 				var weekNum = (currentWeek - firstWeek)%4 + 1
 

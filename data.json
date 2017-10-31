@@ -9,63 +9,71 @@ data = {
         {
           "name": "Mon",
           "almoco": [
-            "Canja de galinha",
-            "Bifinhos de perú com massa e cogumelos",
-			"Fruta variada ou cozida, gelatina ou mousse"
+            "Sopa de feijão verde",
+            "Coxas de frango assadas no forno com arroz de ervilhas",
+			"Salada de tomate e cebola",
+			"Laranja"
           ],
           "lanche": [
-            "Leite c/ cereais",
-            "Pão c/ manteiga"
+            "Manhã: Pão com compota sem açuca e pêra",
+            "Tarde 1: Leite simples e pão com queijo",
+			"Tarde 2: Maçã e amendoas com pele"
           ]
         },
         {
           "name": "Tue",
           "almoco": [
-			"Sopa de Legumes",
-			"Filetes de pescada c/ batata e legumes",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"Sopa de couve coração",
+			"Salmão grelhado com batata cozida",
+			"Couves cozidas",
+			"Maçã"
 			],
           "lanche": [
-			"Iogurte",
-			"Pão c/ queijo"
+			"Manhã: Pão simples com banana",
+			"Tarde 1: Papa de aveia e banana ou leite e pão com queijo",
+			"Tarde 2: Pêra e pevides de abóbora tostados"
 			]
         },
         {
           "name": "Wed",
           "almoco": [
-			"Sopa de Legumes",
-			"Arroz de pato",
-			"Acompanhamento de salada de alface/tomate/cenoura",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"Creme de ervilhas com sementes de girassol",
+			"Bifes de peru grelhados com arroz colorido",
+			"Salada de alface, tomate e cebola",
+			"Uvas"
 			],
           "lanche": [
-			"Leite com chocolate",
-			"Pão c/ marmelada"
+			"Manhã: Tostas integrais com maçã",
+			"Tarde 1: Iogurte e pão com fiambre",
+			"Tarde 2: Maçã e nozes"
 			]
         },
 		{
           "name": "Thu",
           "almoco": [
-			"Sopa de Legumes",
-			"Pescada/lulas estufadas com legumes e batata",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"Sopa juliana",
+			"Medalhões de pescada assados no forno com batata assada",
+			"Cenoura e couve flor assada",
+			"Gelatina sem açucar"
 			],
           "lanche": [
-			"Iogurte de fruta",
-			"Bico de pato com fiambre de perú"
+			"Manhã: Pão simples com pêra",
+			"Tarde 1: Leite simples com pão ou leite com corn flakes",
+			"Tarde 2: Banana e amendoas com pele"
 			]
         },
 		{
           "name": "Fri",
           "almoco": [
-			"Sopa de Legumes",
-			"Bolonhesa de vitela com massa",
-			"Acompanhamento de salada de alface/tomate/cenoura",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"Sopa de espinafres",
+			"Bolonhesa de soja estufada em molho de tomate com esparguete cozido",
+			"Cenoura ripada",
+			"Melão"
 			],
           "lanche": [
-			"Leite c/ cevada",
-			"Pão c/ compota"
+			"Manhã: Pão com compota sem açucar e maçã",
+			"Tarde 1: Iogurte e pão com manteira de amendoim ou leite e pão com requeijão",
+			"Tarde 2: Pêra e amendoins torrados"
 			]
         }
       ]
@@ -77,63 +85,69 @@ data = {
         {
           "name": "Mon",
           "almoco": [
-            "Canja de galinha",
-            "Bifinhos de perú com massa e cogumelos",
-			"Fruta variada ou cozida, gelatina ou mousse"
+            "Sopa de legumes com pescada",
+            "Lombinhos de pescada estufados em molho de tomate com massa tricolor",
+			"Salada de alface e tomate",
+			"Gelatina sem açucar"
           ],
           "lanche": [
-            "Leite c/ cereais",
-            "Pão c/ manteiga"
-          ]
+			"Manhã: Pão simples com banana",
+			"Tarde 1: Iogurte natural com banana",
+			"Tarde 2: Pêra e amendoins torrados"
+			]
         },
         {
           "name": "Tue",
           "almoco": [
-			"Sopa de Legumes",
-			"Filetes de pescada c/ batata e legumes",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"Sopa de legumes com frango",
+			"Paella de frango e legumes",
+			"Laranja"
 			],
           "lanche": [
-			"Iogurte",
-			"Pão c/ queijo"
+			"Manhã: Tostas integrais com maçã",
+			"Tarde 1: Leite simples e pão com creme de amendoim sem açúcar",
+			"Tarde 2: Maçã e nozes"
 			]
         },
         {
           "name": "Wed",
           "almoco": [
-			"Sopa de Legumes",
-			"Arroz de pato",
-			"Acompanhamento de salada de alface/tomate/cenoura",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"Sopa de Legumes com frango",
+			"Salada russa com atum e molho de iogurte natural",
+			"Maçã / Maçã assada"
 			],
           "lanche": [
-			"Leite com chocolate",
-			"Pão c/ marmelada"
+			"Manhã: Pão com compota de frutos vermelhos e pêra",
+			"Tarde 1: Papa de aveia sabor a bolacha maria com leite magro e banana ou leite simples e pão com banana",
+			"Tarde 2: Nectarina e amendoas com pele"
 			]
         },
 		{
           "name": "Thu",
           "almoco": [
-			"Sopa de Legumes",
-			"Pescada/lulas estufadas com legumes e batata",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"Sopa de Legumes com peru",
+			"Bifinhos de peru com cogumelos e esparguete",
+			"Couve flor cozida",
+			"Pêssego"
 			],
           "lanche": [
-			"Iogurte de fruta",
-			"Bico de pato com fiambre de perú"
+			"Manhã: Pão com requeijão e tangerina",
+			"Tarde 1: Iogurte natural e pão integral",
+			"Tarde 2: Banana e sementes de girassol"
 			]
         },
 		{
           "name": "Fri",
           "almoco": [
-			"Sopa de Legumes",
-			"Bolonhesa de vitela com massa",
-			"Acompanhamento de salada de alface/tomate/cenoura",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"Sopa de Legumes com ovo cozido",
+			"Muffins coloridos com arroz de cenoura",
+			"Salada de tomate, cebola e milho",
+			"Tangerina"
 			],
           "lanche": [
-			"Leite c/ cevada",
-			"Pão c/ compota"
+			"Manhã: Pão com compota de pêssego e banana",
+			"Tarde 1: Papa de aveia com leite magro e pêra ou iogurte liquido com tostas integrais",
+			"Tarde 2: Ameixa e amendoins torrados"
 			]
         }
       ]
@@ -145,63 +159,68 @@ data = {
         {
           "name": "Mon",
           "almoco": [
-            "Canja de galinha",
-            "Bifinhos de perú com massa e cogumelos",
-			"Fruta variada ou cozida, gelatina ou mousse"
+            "",
+            "",
+			""
           ],
           "lanche": [
-            "Leite c/ cereais",
-            "Pão c/ manteiga"
-          ]
+			"Manhã: ",
+			"Tarde 1: ",
+			"Tarde 2: "
+			]
         },
         {
           "name": "Tue",
           "almoco": [
-			"Sopa de Legumes",
-			"Filetes de pescada c/ batata e legumes",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"",
+			"",
+			""
 			],
           "lanche": [
-			"Iogurte",
-			"Pão c/ queijo"
+			"Manhã: ",
+			"Tarde 1: ",
+			"Tarde 2: "
 			]
         },
         {
           "name": "Wed",
           "almoco": [
-			"Sopa de Legumes",
-			"Arroz de pato",
-			"Acompanhamento de salada de alface/tomate/cenoura",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"",
+			"",
+			"",
+			""
 			],
           "lanche": [
-			"Leite com chocolate",
-			"Pão c/ marmelada"
+			"Manhã: ",
+			"Tarde 1: ",
+			"Tarde 2: "
 			]
         },
 		{
           "name": "Thu",
           "almoco": [
-			"Sopa de Legumes",
-			"Pescada/lulas estufadas com legumes e batata",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"",
+			"",
+			""
 			],
           "lanche": [
-			"Iogurte de fruta",
-			"Bico de pato com fiambre de perú"
+			"Manhã: ",
+			"Tarde 1: ",
+			"Tarde 2: "
 			]
         },
 		{
           "name": "Fri",
           "almoco": [
-			"Sopa de Legumes",
-			"Bolonhesa de vitela com massa",
-			"Acompanhamento de salada de alface/tomate/cenoura",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"",
+			"",
+			"",
+			""
 			],
           "lanche": [
-			"Leite c/ cevada",
-			"Pão c/ compota"
+			"Manhã: ",
+			"Tarde 1: ",
+			"Tarde 2: "
 			]
         }
       ]
@@ -213,63 +232,68 @@ data = {
         {
           "name": "Mon",
           "almoco": [
-            "Canja de galinha",
-            "Bifinhos de perú com massa e cogumelos",
-			"Fruta variada ou cozida, gelatina ou mousse"
+            "",
+            "",
+			""
           ],
           "lanche": [
-            "Leite c/ cereais",
-            "Pão c/ manteiga"
-          ]
+			"Manhã: ",
+			"Tarde 1: ",
+			"Tarde 2: "
+			]
         },
         {
           "name": "Tue",
           "almoco": [
-			"Sopa de Legumes",
-			"Filetes de pescada c/ batata e legumes",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"",
+			"",
+			""
 			],
           "lanche": [
-			"Iogurte",
-			"Pão c/ queijo"
+			"Manhã: ",
+			"Tarde 1: ",
+			"Tarde 2: "
 			]
         },
         {
           "name": "Wed",
           "almoco": [
-			"Sopa de Legumes",
-			"Arroz de pato",
-			"Acompanhamento de salada de alface/tomate/cenoura",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"",
+			"",
+			"",
+			""
 			],
           "lanche": [
-			"Leite com chocolate",
-			"Pão c/ marmelada"
+			"Manhã: ",
+			"Tarde 1: ",
+			"Tarde 2: "
 			]
         },
 		{
           "name": "Thu",
           "almoco": [
-			"Sopa de Legumes",
-			"Pescada/lulas estufadas com legumes e batata",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"",
+			"",
+			""
 			],
           "lanche": [
-			"Iogurte de fruta",
-			"Bico de pato com fiambre de perú"
+			"Manhã: ",
+			"Tarde 1: ",
+			"Tarde 2: "
 			]
         },
 		{
           "name": "Fri",
           "almoco": [
-			"Sopa de Legumes",
-			"Bolonhesa de vitela com massa",
-			"Acompanhamento de salada de alface/tomate/cenoura",
-			"Fruta variada ou cozida, gelatina ou mousse"
+			"",
+			"",
+			"",
+			""
 			],
           "lanche": [
-			"Leite c/ cevada",
-			"Pão c/ compota"
+			"Manhã: ",
+			"Tarde 1: ",
+			"Tarde 2: "
 			]
         }
       ]
