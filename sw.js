@@ -1,5 +1,5 @@
-var staticCacheName = 'ementas-static-10';
-var dynamicCacheName = 'ementas-dynamic-1';
+var staticCacheName = 'ementas-static-12';
+var dynamicCacheName = 'ementas-dynamic-2';
 var allCaches = [
   staticCacheName,
   dynamicCacheName

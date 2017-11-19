@@ -159,68 +159,68 @@ data = {
         {
           "name": "Mon",
           "almoco": [
-            "",
-            "",
-			""
+            "Sopa de legumes com frango",
+            "Lombinhos de salmão fresco com puré de grão de bico e Cenoura e brócolos cozidos",
+			"Laranja"
           ],
           "lanche": [
-			"Manhã: ",
-			"Tarde 1: ",
-			"Tarde 2: "
+			"Manhã: Tostas extratfinas com maçã",
+			"Tarde 1: Papa de aveia e chocolate e banana ou leite simples com corn flakes",
+			"Tarde 2: Banana e amendoins torrados"
 			]
         },
         {
           "name": "Tue",
           "almoco": [
-			"",
-			"",
-			""
+			"Sopa de legumes com pescada",
+			"Massa riscada com vitela, ervilhas e cenoura",
+			"Maça ou Maça assada"
 			],
           "lanche": [
-			"Manhã: ",
-			"Tarde 1: ",
-			"Tarde 2: "
+			"Manhã: Pão simples com banana",
+			"Tarde 1: Taça de iogurte natural com diospiro",
+			"Tarde 2: nectarina e Amendoas com pele"
 			]
         },
         {
           "name": "Wed",
           "almoco": [
-			"",
-			"",
-			"",
-			""
+			"Sopa de legumes com ovo cozido",
+			"Pizza vegetariana",
+			"Alface, tomate e cebola",
+			"Pêra"
 			],
           "lanche": [
-			"Manhã: ",
-			"Tarde 1: ",
-			"Tarde 2: "
+			"Manhã: Pão com compota e pessego",
+			"Tarde 1: Papa de aveia e banana ou leite simples e pão com queijo",
+			"Tarde 2: Maçã e nozes"
 			]
         },
 		{
           "name": "Thu",
           "almoco": [
-			"",
-			"",
-			""
+			"Sopa de legumes com frango",
+			"Frango assado com batata assada. Juliana de legumes ao alho",
+			"Castanhas assadas"
 			],
           "lanche": [
-			"Manhã: ",
-			"Tarde 1: ",
-			"Tarde 2: "
+			"Manhã: Pão simples com queijo fesco e compota, com pera",
+			"Tarde 1: Tostas com compota e maçã",
+			"Tarde 2: Tangerina e Amendoins torrados"
 			]
         },
 		{
           "name": "Fri",
           "almoco": [
-			"",
-			"",
-			"",
-			""
+			"Sopa de legumes com ovo e peru",
+			"Pasteis de bacalhau e grão no forno com arroz de bróculos",
+			"Tomate, pepino e cebola",
+			"Tangerina"
 			],
           "lanche": [
-			"Manhã: ",
-			"Tarde 1: ",
-			"Tarde 2: "
+			"Manhã: Pão simples com maçã",
+			"Tarde 1: Iogurte natural e pão integral com fiambre",
+			"Tarde 2: Banana e sementes de girassol"
 			]
         }
       ]
@@ -232,68 +232,68 @@ data = {
         {
           "name": "Mon",
           "almoco": [
-            "",
-            "",
-			""
+            "Sopa de legumes com pescada",
+            "Hamburgueres de leumes com arroz de cenoura",
+			"Gelatina sem açucar"
           ],
           "lanche": [
-			"Manhã: ",
-			"Tarde 1: ",
-			"Tarde 2: "
+			"Manhã: Pão com queijo fresco e manteiga de amendoim e banana",
+			"Tarde 1: Iogurte sólido natural com maçã e flocos de aveia",
+			"Tarde 2: Laranja e amendoins torrados"
 			]
         },
         {
           "name": "Tue",
           "almoco": [
-			"",
-			"",
-			""
+			"Sopa de legumes com ovo cozido",
+			"Empadão de bróculos e batata com atum. Rúcula e tomate cherry",
+			"Laranja"
 			],
           "lanche": [
-			"Manhã: ",
-			"Tarde 1: ",
-			"Tarde 2: "
+			"Manhã: Pão com fiambre e pêra",
+			"Tarde 1: Papa de aveia e chocolate e maçã ou leite simples e pão com compota",
+			"Tarde 2: Banana e amendoas com pele"
 			]
         },
         {
           "name": "Wed",
           "almoco": [
-			"",
-			"",
-			"",
+			"Sopa de legumes com frango",
+			"Frango estufado com ervilhas e cenoura e arroz branco",
+			"Pêra / Pêra assada com canela",
 			""
 			],
           "lanche": [
-			"Manhã: ",
-			"Tarde 1: ",
-			"Tarde 2: "
+			"Manhã: Pão simples com banana",
+			"Tarde 1: Taça de iogurte natural com corn flakes e banana ou pão integral com banana e iogurte liquido",
+			"Tarde 2: Maçã e nozes"
 			]
         },
 		{
           "name": "Thu",
           "almoco": [
-			"",
-			"",
-			""
+			"Sopa de legumes com peru",
+			"Massa à bolonhesa com cogumelos. Tomate e cebola",
+			"Tangerina"
 			],
           "lanche": [
-			"Manhã: ",
-			"Tarde 1: ",
-			"Tarde 2: "
+			"Manhã: Tostas com requeijão de barrar light e maçã",
+			"Tarde 1: Iogurte natural com maçã",
+			"Tarde 2: Pêra e sementes de girassol"
 			]
         },
 		{
           "name": "Fri",
           "almoco": [
-			"",
-			"",
-			"",
+			"Sopa de legumes com ovo cozido",
+			"Bacalhau à lagareiro com batata a murro. Espinafres cozidos",
+			"Maçã",
 			""
 			],
           "lanche": [
-			"Manhã: ",
-			"Tarde 1: ",
-			"Tarde 2: "
+			"Manhã: Pão com compota e banana",
+			"Tarde 1: Iogurte natural e pão integral",
+			"Tarde 2: Laranja e amendoins torrados"
 			]
         }
       ]
